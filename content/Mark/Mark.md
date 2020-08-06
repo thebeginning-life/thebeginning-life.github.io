@@ -1,3 +1,7 @@
+---
+modified: 2020-08-06T13:52:54-05:00
+---
+
 # The Good News According to Mark
 
 ## Chapter 1.
@@ -20,7 +24,7 @@
 (theme "Jesus: Choose loyalty to God's Kingdom over all else")
 (vs 14)Now after John was arrested Jesus entered Galilee while preaching the Good News of God’s Kingdom  (vs 15)and saying, “The time is fulfilled and God’s Kingdom is here!  Change your citizenship from your own kingdom to God’s(tn "repent") and believe in the Good News.”
 
-(vs 16)Passing along the sea of Galilee, Jesus saw Simon and Andrew--Simon's brother--casting a net into the sea.  (They were professional(tn "Impled from context") fishermen.)  (vs 17)He said to them, “Follow me, and I will make you into fishers for men.”  (vs 18)Immediately they left their nets and followed him.  (vs 19)Going on a little further from there, Jesus saw James, Zebedee’s son, and John his brother. (Zebedee(tn "Zebedee is not listed here in the original text but is implied to be in the boat from the context"), James, and John were in their boat repairing the fishing nets.)  (vs 20)Immediately Jesus called to James and John and they left their father, Zebedee, in the boat with his hired helpers and followed Jesus!
+(vs 16)Passing along the sea of Galilee, Jesus saw Simon and Andrew (Simon's brother) casting a net into the sea; they worked as professional fishermen.  (vs 17)He said to them, “Follow me, and I will make you into fishers for men.”  (vs 18)Immediately they left their nets and followed him.  (vs 19)Going on a little further from there, Jesus saw James, Zebedee’s son, and John his brother. (Zebedee(tn "Zebedee is not listed here in the original text but is implied to be in the boat from the context"), James, and John were in their boat repairing the fishing nets.)  (vs 20)Immediately Jesus called to James and John and they left their father, Zebedee, in the boat with his hired helpers and followed Jesus!
 
 (theme "The king has authority over his kingdom")
 (vs 21)They entered Capernaum, and when the Sabbath day came Jesus immediately entered the synagogue and taught.  (vs 22)Everyone was amazed at his teaching because Jesus taught them like a person with authority, and not like the scribes.  (vs 23)Immediately in their synagogue a man with a an evil spirit(tn "demons were also known as evil or unclean spirits; see verse 32") shouted,  (vs 24)“Ha! What do we have to do with you Jesus, you Nazarene? Have you come to destroy us? I know you who you are: the Holy One of God!”  (vs 25)Jesus strongly reprimanded the evil spirit saying, “Be quiet! Come out of him!”  (vs 26)The unclean spirit convulsed the man, shrieked loudly, and came out of him.
