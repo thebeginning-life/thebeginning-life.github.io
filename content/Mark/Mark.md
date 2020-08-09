@@ -1,5 +1,5 @@
 ---
-modified: 2020-08-09T12:28:46-05:00
+modified: 2020-08-09T13:18:01-05:00
 ---
 
 # The Good News According to Mark
@@ -7,7 +7,7 @@ modified: 2020-08-09T12:28:46-05:00
 ## Chapter 1.
 
 (theme "An invitation; a new beginning; Jesus is the new beginning)
-(vs 1)The beginning of the Good News of Jesus the Messiah, the Son of God.(xr "John 1:1-14")
+(vs 1)The beginning of the Good News of Jesus the Messiah, the Son of God.(xr "John 1:1-14")(sn "Mark's book is the only one that claims to start at the beginning of the Good News.  Mark, then, is explaining how to know Jesus right now.  Are you willing?")
 
 (theme "Choose God’s way; Choose God’s path.")
 (vs 2)As it is written in the prophets, *“Look! I am sending my messenger ahead of you; he will prepare your way ahead of time:*  (vs 3)*the voice of one shouting in the wilderness, ‘Make the Lord’s way ready! Make his roads straight!’”*
@@ -31,7 +31,7 @@ modified: 2020-08-09T12:28:46-05:00
 (theme "The king has authority over his kingdom")
 (vs 21)They entered Capernaum, and when the Sabbath day came Jesus immediately entered the synagogue and taught.  (vs 22)Everyone was amazed at his teaching because Jesus taught them like a person with authority, and not like the scribes.  (vs 23)Immediately in their synagogue a man with a an evil spirit(tn "demons were also known as evil or unclean spirits; e.g.: verse 32") shouted,  (vs 24)“Ha! What do we have to do with you Jesus, you Nazarene? Have you come to destroy us? I know you who you are: the Holy One of God!”  (vs 25)Jesus strongly reprimanded the evil spirit saying, “Be quiet! Come out of him!”  (vs 26)The unclean spirit convulsed the man, shrieked loudly, then came out of him.
 
-(vs 27)They were all amazed! Everyone wondered; everyone discussed,(tn "*everyone* repeated here because of the parallelism in the text.“) What is this? A new teaching? Jesus even commands the evil spirits with authority!  And they obey him!”  (vs 28)The news about Jesus immediately spread everywhere in the region known as “Galilee” and its surrounding area.
+(vs 27)They were all amazed! Everyone wondered and everyone discussed,(tn "*everyone* repeated here because of the parallelism in the text.“) What is this? A new teaching? Jesus even commands the evil spirits with authority!  And they obey him!”  (vs 28)The news about Jesus immediately spread everywhere in the region known as “Galilee” and its surrounding area.
 
 (vs 29)Immediately, (when they had left the synagogue) they entered Simon and Andrew’s house with James and John.  (vs 30)Now Simon’s wife’s mother lay sick with a fever, and they told Jesus about her immediately.  (vs 31)He came, took her by the hand, and raised her up. The fever immediately left her and she served them.
 
@@ -55,11 +55,11 @@ People still came to Jesus from all around.
 
 (vs 3)Four people came, carrying a paralyzed man to Jesus.  (vs 4)When they couldn’t get close to Jesus because of the crowd, they broke up and removed the roof above Jesus! Then (with the roof removed), they lowered the mat where the paralyzed man was lying.
 
-(vs 5)Jesus, recognizing their reasonable expectation that he could and would help,(tn "faith")(xr "Hebrews 11:1") said to the paralyzed man, “Son, your selfish choices (tn "sins") are forgiven.”
+(vs 5)Jesus, recognizing their reasonable expectation that he could and would help,(tn "faith")(xr "Hebrews 11:1") said to the paralyzed man, “Son, your selfish tendencies and choices(tn "sins") are forgiven.”
 
-(vs 6)But some of the religious teachers (who were scribes) were sitting there reasoning silently in their hearts.
+(vs 6)But some of the religious teachers (who were scribes) were sitting there reasoning silently in their hearts:
 
-(vs 7)“Why does this man defame and insult God like that?  It’s blasphemy!  Who can forgive all of another person's selfish choices(tn "sins") but God alone?” they thought to themselves.
+(vs 7)“Why does this man defame and insult God like that?  It’s blasphemy!  Who can forgive all of another person's selfish tendencies and choices(tn "sins") but God alone?” they thought to themselves.
 
 (vs 8)Immediately Jesus perceived in his spirit that they reasoned this way and said to them, “Why do you question and criticize?  (vs 9)Which is easier to tell a paralyzed person:  ‘Your sins are forgiven’ or, ‘Get up, pick up your bed, and walk?’  (vs 10)But to demonstrate that the Son of Man has authority on earth to forgive sins—” (Jesus then spoke to the paralyzed man) (vs 11)“—Get up, pick up up your mat, and return home.”
 
@@ -72,7 +72,7 @@ People still came to Jesus from all around.
 
 “Why does he eat and drink with tax collectors and ‘sinners’?” these religious teachers asked.
 
-(vs 17)Jesus overheard this and replied, “Those who are healthy don’t need a doctor, but sick people do. I didn’t come to call people who think they already do everything right(tn "the 'righteous', but Jesus is being sarcastic"), but people who prefer pursuing selfish pleasure(tn "sinners") to recognize the hurt that this choice causes and to have a change of heart(tn "to repentance").”
+(vs 17)Jesus overheard this and replied, “Those who are healthy don’t need a doctor, but sick people do. I didn’t come to call people who think they already do everything right(tn "the 'righteous', but Jesus is being sarcastic"), but people who prefer pursuing selfish pleasure(tn "sinners") to recognize the hurt that this choice causes and to have a deep change of heart(tn "to repentance").”
 
 (theme"Religious tradition can't offer a close relationship with Jesus")
 (vs 18)John’s disciples and some other religious teachers (known as the Pharisees) were fasting by temporarily going without something to instead focus more clearly on God. They came and asked Jesus, “Why do John’s disciples and the disciples of the Pharisees fast, but your disciples don’t fast?”
@@ -102,7 +102,7 @@ But his enemies were silent.
 (theme "The followers, the disciples, and the twelve")
 (vs 7)Jesus withdrew to the sea with his disciples and a huge crowd followed him from Galilee, from Judea, (vs 8)from Jerusalem, from Idumaea, from beyond the Jordan, and from the area around Tyre and Sidon. When he arrived, an enormous crowd gathered made up of who had heard about the amazing things he was doing.
 
-(vs 9)Jesus asked his disciples to keep a little boat nearby because of the crowd pressing toward him.  (vs 10)For he had healed many, and those who had diseases pressed toward him, trying to touch him.  (vs 11)The evil spirits (whenever they saw him) fell down before him shouting, “You are the Son of God!”  (vs 12)But Jesus sternly warned them not to tell people who he was.
+(vs 9)Jesus asked his disciples to keep a little boat nearby because of the crowd pressing toward him.  (vs 10)For he had healed many, and those who had diseases pressed toward him, trying to touch him.  (vs 11)The evil spirits (whenever they saw Jesus) fell down before him shouting, “You are the Son of God!”  (vs 12)But Jesus sternly warned them not to tell people who he was.
 
 (vs 13)Jesus climbed a mountain and called to those he wanted.  And they came.(sn "From the context this appears to be a larger group than the twelve; see Mark 4:10")
 
