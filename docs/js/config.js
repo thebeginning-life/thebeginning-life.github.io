@@ -11,12 +11,13 @@ var config = {
   // If Github mode is set, your Github username, repo name, 
   // and branch to get files from.
   github: {
-    username: 'yourusername',
-    repo: 'yourrepo',
-    branch: 'gh-pages',
+    username: 'thebeginning-life',
+    repo: 'thebeginning-life.github.io',
+    branch: 'master',
     host: 'https://api.github.com',
+    
     // Use prefix option if your site is located in a subdirectory.
-    // prefix: 'subdirectory',
+    prefix: 'docs',
   },
 
   // The name of the layouts directory.
