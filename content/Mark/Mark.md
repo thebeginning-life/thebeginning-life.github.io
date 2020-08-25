@@ -1,6 +1,6 @@
 ---
 title: The Good News According to Mark
-modified: 2020-08-09T13:18:01-05:00
+modified: 2020-08-24T20:35:18-05:00
 ---
 
 # The Good News According to Mark
@@ -8,7 +8,7 @@ modified: 2020-08-09T13:18:01-05:00
 ## Chapter 1.
 
 (theme "An invitation; a new beginning; Jesus is the new beginning)
-(vs 1)The beginning of the Good News of Jesus the Messiah, the Son of God.(xr "John 1:1-14")(sn "Mark's book is the only one that claims to start at the beginning of the Good News.  Mark, then, is explaining how to know Jesus right now.  Are you willing?")
+(vs 1)The beginning of the Good News of Jesus the Messiah, the Son of God.(xr "John 1:1-14")(sn "Mark's book is the only one that claims to start at the beginning of the Good News.  Mark, then, is explaining how to know Jesus right now.  Are you willing to consider what he has to say?")
 
 (theme "Choose God’s way; Choose God’s path.")
 (vs 2)As it is written in the prophets, *“Look! I am sending my messenger ahead of you; he will prepare your way ahead of time:*  (vs 3)*the voice of one shouting in the wilderness, ‘Make the Lord’s way ready! Make his roads straight!’”*
