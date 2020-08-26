@@ -1,6 +1,6 @@
 ---
 title: The Good News According to Mark
-modified: 2020-08-09T13:18:01-05:00
+modified: 2020-08-24T21:44:49-05:00
 ---
 
 # The Good News According to Mark
@@ -8,12 +8,12 @@ modified: 2020-08-09T13:18:01-05:00
 ## Chapter 1.
 
 (theme "An invitation; a new beginning; Jesus is the new beginning)
-(vs 1)The beginning of the Good News of Jesus the Messiah, the Son of God.(xr "John 1:1-14")(sn "Mark's book is the only one that claims to start at the beginning of the Good News.  Mark, then, is explaining how to know Jesus right now.  Are you willing?")
+(vs 1)The beginning of the Good News of Jesus the Messiah, the Son of God.(xr "John 1:1-14")(sn "Mark's book is the only one that claims to start at the beginning of the Good News.  Mark, then, is explaining how to know Jesus right now.  Are you willing to consider what he has to say?")
 
 (theme "Choose God’s way; Choose God’s path.")
 (vs 2)As it is written in the prophets, *“Look! I am sending my messenger ahead of you; he will prepare your way ahead of time:*  (vs 3)*the voice of one shouting in the wilderness, ‘Make the Lord’s way ready! Make his roads straight!’”*
 
-(vs 4)John came baptizing in the wilderness and preaching baptism. This baptism required people to choose God’s path instead of their own(tn "repent"), for forgiveness of preferring selfish pleasure(xr "James 4:1-10") (and the hurt that this causes) instead(tn "sins").
+(vs 4)John came baptizing in the wilderness and preaching baptism. This baptism required people to choose God’s road instead of their own(tn "repent"), for forgiveness of preferring selfish pleasure(xr "James 4:1-10") (and the hurt that this causes) instead(tn "sins").
 
 (vs 5)All the country of Judea and all those of Jerusalem left their homes and towns to find John. He baptized them in the Jordan river as they turned to God’s way.  They took responsibility for and began changing(tn "repented") the paths they had chosen that ultimately hurt themselves, God, and others as a consequence of their preference for selfish pleasure(tn "of their sins").
 
@@ -43,9 +43,11 @@ modified: 2020-08-09T13:18:01-05:00
 
 (vs 36)Simon and those who were with him searched for Jesus. (vs 37)When they found him they said, “Everyone is looking for you!”  (vs 38)Jesus said to them, “Let’s go somewhere else—into the next towns—so I can preach there too. This is why I came.”  (vs 39)So Jesus visited synagogues throughout all Galilee, preaching and casting out demons.
 
-(vs 40)A man with the contagious, incurable, fatal skin disease known as(tn "These characteristics of leprosy were common knowledge in Mark's time") leprosy found Jesus in order to beg: he lowered himself to his knees in front of Jesus and said, “If you want to, you can make me clean!”  (vs 41)With deep compassion, Jesus stretched out his hand and touched the Leper(tn "capitalized because to be a leper also meant belonging to a lower class in society, not just to have the disease known as leprosy"), replying, “I want to!  Be cleansed.”  (vs 42)When Jesus said this, immediately the leprosy left the man—he was made clean; he was completely healed!
+(vs 40)A man with the contagious, incurable, fatal skin disease known as(tn "These characteristics of leprosy were common knowledge in Mark's time") leprosy found Jesus in order to beg.  Lowering himself to his knees in front of Jesus he said, “If you want to, you can make me clean!”  (vs 41)With deep compassion, Jesus stretched out his hand and touched the Leper(tn "capitalized because to be a leper also meant belonging to a lower class in society, not just to have the disease known as leprosy) in reply and said, “I want to!  Be cleansed.”  (vs 42)When Jesus said this, immediately the leprosy left the man—he was made clean; he was completely healed!
 
-(vs 43)Jesus strictly warned the man (immediately sending him on his way),  (vs 44)“Be careful that you don’t speak a word about this to anybody. Instead, go show yourself to the priest and offer the sacrifices Moses commanded for your cleansing. (This will be a witness to the priests.)”  (vs 45)However, when the man left, he told everybody and spread the news all over!  As a result, Jesus couldn’t enter cities any more but instead stayed outside the cities in the desert.
+(vs 43)Jesus strictly warned the man (immediately sending him on his way),  (vs 44)“Be careful that you don’t speak a word about this to anybody. Instead, go show yourself to the priest and offer the sacrifices Moses commanded for your cleansing. (This will be a witness to the priests.)”  
+
+(vs 45)However, when the man left, he told everybody and spread the news all over!  As a result, Jesus couldn’t enter cities any more but instead stayed outside the cities in the desert.
 
 People still came to Jesus from all around.
 
@@ -58,7 +60,7 @@ People still came to Jesus from all around.
 
 (vs 5)Jesus, recognizing their reasonable expectation that he could and would help,(tn "faith")(xr "Hebrews 11:1") said to the paralyzed man, “Son, your selfish tendencies and choices(tn "sins") are forgiven.”
 
-(vs 6)But some of the religious teachers (who were scribes) were sitting there reasoning silently in their hearts:
+(vs 6)But some of the religious experts (who were scribes) were sitting there reasoning silently in their hearts:
 
 (vs 7)“Why does this man defame and insult God like that?  It’s blasphemy!  Who can forgive all of another person's selfish tendencies and choices(tn "sins") but God alone?” they thought to themselves.
 
@@ -69,14 +71,14 @@ People still came to Jesus from all around.
 (theme "Jesus is close to people who recognize their own need")
 (vs 13)Jesus returned to the seashore; a very large crowd came together, and Jesus taught them.  (vs 14)As he passed the tax office, he saw Levi the son of Alphaeus working there. “Follow me,” Jesus said. And Levi got up and followed him.
 
-(vs 15)Later, Jesus was reclining at the meal table in Levi’s house, and many other tax collectors and socially unacceptable “sinners” sat down with Jesus and his disciples; there were many of these kinds of people, and they followed Jesus.  (vs 16)But the scribes and Pharisees (when they saw Jesus eating with the “sinners” and tax collectors) questioned his disciples.
+(vs 15)Later, Jesus was reclining at the meal table in Levi’s house, and many other tax collectors and socially unacceptable “sinners” sat down with Jesus and his disciples; there were many of these kinds of people, and they followed Jesus.  (vs 16)But the religious experts who were scribes and religious conservatives known as Pharisees (when they saw Jesus eating with the “sinners” and tax collectors) questioned his disciples.
 
 “Why does he eat and drink with tax collectors and ‘sinners’?” these religious teachers asked.
 
 (vs 17)Jesus overheard this and replied, “Those who are healthy don’t need a doctor, but sick people do. I didn’t come to call people who think they already do everything right(tn "the 'righteous', but Jesus is being sarcastic"), but people who prefer pursuing selfish pleasure(tn "sinners") to recognize the hurt that this choice causes and to have a deep change of heart(tn "to repentance").”
 
 (theme"Religious tradition can't offer a close relationship with Jesus")
-(vs 18)John’s disciples and some other religious teachers (known as the Pharisees) were fasting by temporarily going without something to instead focus more clearly on God. They came and asked Jesus, “Why do John’s disciples and the disciples of the Pharisees fast, but your disciples don’t fast?”
+(vs 18)John’s disciples and some Pharisees, the religious conservatives, were fasting by temporarily going without something to instead focus more clearly on God. They came to Jesus and questioned, “Why do John’s disciples and the disciples of the Pharisees fast, but your disciples don’t fast?”
 
 (vs 19)Jesus answered, "Can the honored groomsmen at a wedding fast while the bridegroom is with them?  As long as they have the bridegroom with them, they can’t fast.  (vs 20)But the days will come when the bridegroom will be taken away from them, and beginning that day they will fast.
 
