@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CMS.js</title>
+    <meta name="description" content="The JavaScript Site Generator">
+    <meta name="author" content="">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+    <link rel="stylesheet" href="./css/animations.css">
+    <link rel="stylesheet" href="./css/poole.min.css">
+    <link rel="stylesheet" href="./css/poole.overrides.min.css">
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <noscript>Please enable JavaScript to view this site.</noscript>
+  </head>
+  <body>
+    <!-- Main Container -->
+    <div class="container content">
+      <!-- Header -->
+      <header class="masthead">
+        <h3 class="masthead-title">
+        <a href="#" class="sitename" title="Home">
+          CMS.js
+        </a>
+        <small class="tagline">
+          The Javascript Site Generator
+        </small>
+        </h3>
+        <!-- Navigation -->
+        <nav class="nav">
+          <ul>
+            <li><a href="#/posts">Posts</a></li>
+            <li><a href="#/pages/about">About</a></li>
+            <li><a href="#/pages/links">Links</a></li>
+          </ul>
+        </nav>
+      </header>
+
+      <!-- CMS -->
+      <div id="cms"></div>
+
+      <!-- Footer -->
+      <footer class="footer">
+         <small class="footer-text">
+            <!-- The Beginning of Life, an adaptation of the American Standard Version translation of Mark by David Orme (dba: theBeginning.life) is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0 -->
+	    <p xmlns:dct="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#" class="license-text"><a rel="cc:attributionURL" property="dct:title" href="https://theBeginning.life">The Beginning of Life</a>, an adaption of the American Standard Version translation of Mark by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/coconutpalm">David Orme (dba: theBeginning.life)</a> is licensed under <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" /></a></p>
+        </small>
+      </footer>
+    </div>
+
+    <!-- ES5 Polyfills -->
+    <script src="//cdnjs.cloudflare.com/ajax/libs/es5-shim/4.5.12/es5-shim.min.js"></script>
+    <!-- CMS.js -->
+    <script src="./js/cms.js"></script>
+    <!-- Config -->
+    <script src="./js/config.js"></script>
+  </body>
+</html>
