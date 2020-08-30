@@ -17,7 +17,7 @@ var config = {
     host: 'https://api.github.com',
 
     // Use prefix option if your site is located in a subdirectory.
-    prefix: 'docs',
+    prefix: 'content',
   },
 
   // The name of the layouts directory.
