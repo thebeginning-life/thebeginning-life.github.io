@@ -40,6 +40,7 @@ var config = {
     name: 'Mark',
       layout: { list: 'mark-toc', single: 'mark-chapter' },
     },
+    {
     name: 'posts',
       layout: { list: 'post-list', single: 'post' },
     },
