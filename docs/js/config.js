@@ -8,14 +8,14 @@ var config = {
   // Defaults to Server mode if not specified
   mode: 'GITHUB',
 
-  // If Github mode is set, your Github username, repo name, 
+  // If Github mode is set, your Github username, repo name,
   // and branch to get files from.
   github: {
     username: 'thebeginning-life',
     repo: 'thebeginning-life.github.io',
     branch: 'master',
     host: 'https://api.github.com',
-    
+
     // Use prefix option if your site is located in a subdirectory.
     prefix: 'docs',
   },
@@ -37,6 +37,9 @@ var config = {
   types: [
     {
     // for example, layouts/post-list.html
+    name: 'Mark',
+      layout: { list: 'mark-toc', single: 'mark-chapter' },
+    },
     name: 'posts',
       layout: { list: 'post-list', single: 'post' },
     },
