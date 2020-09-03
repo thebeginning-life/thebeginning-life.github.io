@@ -2,18 +2,20 @@
 
 // Relative sizes
 
-.full-size {
-	font-size: 1em;
-}
-
 .threequarters-size {
-	font-size: .75em;
+	width: 75%;
+	height: 75%;
+	font-size: 75%;
 }
 
 .twothirds-size {
-	font-size: .6em;
+	width: 66%;
+	height: 66%;
+	font-size: 66%;
 }
 
 .half-size {
-	font-size: .5em;
+	width: 50%;
+	height: 50%;
+	font-size: 50%;
 }
