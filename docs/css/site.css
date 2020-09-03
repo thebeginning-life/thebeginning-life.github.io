@@ -7,14 +7,22 @@
 	line-height: 1rem;
 }
 
-.threequarters-font {
-	font-size: 75%;
+.9-font {
+	font-size: .9rem;
 }
 
-.twothirds-font {
-	font-size: 66%;
+.8-font {
+	font-size: .8rem;
 }
 
-.half-font {
-	font-size: 50%;
+.75-font {
+	font-size: .7rem;
+}
+
+.66-font {
+	font-size: .66rem;
+}
+
+.5-font {
+	font-size: .5rem;
 }
