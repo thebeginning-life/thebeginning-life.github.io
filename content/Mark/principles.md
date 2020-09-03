@@ -1,3 +1,22 @@
+---
+#layout: post
+title: About This Site
+excerpt: My goal in preparing this web site is to faithfully translate Mark's book into contemporary spoken American English as used by those who don't already know anything of the Bible, have no theology background, and are generally unfamiliar with church culture.  This page's goal is to demonstrate to pastors and Bible scholars why *The Beginning of Life* is a trustworthy and faithful translation of the Bible.
+tags: about translation translate
+---
+## Introduction
+
+My goal in preparing this web site is to faithfully translate Mark's book into contemporary spoken American English as used by those who don't already know anything of the Bible, have no theology background, and are generally unfamiliar with church culture.
+
+This page's goal is to demonstrate to pastors and Bible scholars why *The Beginning of Life* is a trustworthy and faithful translation of the Bible.
+
+If you do not have a technical background in Bible translation and are still interested, read on.  I will do my best to remain understandable for you too.
+
+## More technically...
+
+*The Beginning of Life* is an updated translation of the book of Mark derived from the *American Standard Version* and the *[World English Bible](https://worldenglish.bible)* translations of the Bible.  In addition, I have drawn on the rest of the Bible, Greek study helps, and other modern English translations of the Bible for illumination.
+
+Details below...
 
 # Key to notes and extended markup
 
@@ -9,7 +28,7 @@
 
 (vs 1) Verse 1, etc.
 
-(xr John 1:1-14)
+(xr "John 1:1-14")
 
 # Why and How?
 

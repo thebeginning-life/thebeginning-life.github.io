@@ -1,4 +1,11 @@
+// Logo
 
+.wheat {
+	display: block;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
 
 // Relative sizes
 
@@ -7,22 +14,22 @@
 	line-height: 1rem;
 }
 
-.9-font {
+.sz9-font {
 	font-size: .9rem;
 }
 
-.8-font {
+.sz8-font {
 	font-size: .8rem;
 }
 
-.75-font {
-	font-size: .7rem;
+.sz75-font {
+	font-size: .75rem;
 }
 
-.66-font {
+.sz66-font {
 	font-size: .66rem;
 }
 
-.5-font {
+.sz5-font {
 	font-size: .5rem;
 }
