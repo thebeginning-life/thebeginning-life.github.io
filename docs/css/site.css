@@ -2,20 +2,14 @@
 
 // Relative sizes
 
-.threequarters-size {
-	width: 75%;
-	height: 75%;
+.font-threequarters {
 	font-size: 75%;
 }
 
-.twothirds-size {
-	width: 66%;
-	height: 66%;
+.font-twothirds {
 	font-size: 66%;
 }
 
-.half-size {
-	width: 50%;
-	height: 50%;
+.font-half {
 	font-size: 50%;
 }
