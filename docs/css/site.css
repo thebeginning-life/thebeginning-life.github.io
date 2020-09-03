@@ -3,13 +3,16 @@
 // Relative sizes
 
 .font-threequarters {
+	font-family: Sans-Serif;
 	font-size: 75%;
 }
 
 .font-twothirds {
+	font-family: Sans-Serif;
 	font-size: 66%;
 }
 
 .font-half {
+	font-family: Sans-Serif;
 	font-size: 50%;
 }
