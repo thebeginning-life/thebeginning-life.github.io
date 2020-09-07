@@ -1,9 +1,10 @@
 ---
-#layout: post
 title: About This Site
-excerpt: My goal in preparing this web site is to faithfully translate Mark's book into contemporary spoken American English as used by those who don't already know anything of the Bible, have no theology background, and are generally unfamiliar with church culture.  This page's goal is to demonstrate to pastors and Bible scholars why *The Beginning of Life* is a trustworthy and faithful translation of the Bible.
+excerpt: 'My goal in preparing this web site is to faithfully translate Mark''s book into contemporary spoken American English as used by those who don''t already know anything of the Bible, have no theology background, and are generally unfamiliar with church culture.  This page''s goal is to demonstrate to pastors and Bible scholars why *The Beginning of Life* is a trustworthy and faithful translation of the Bible.'
 tags: about translation translate
+modified: 2020-09-07T09:59:33-05:00
 ---
+
 ## Introduction
 
 My goal in preparing this web site is to faithfully translate Mark's book into contemporary spoken American English as used by those who don't already know anything of the Bible, have no theology background, and are generally unfamiliar with church culture.
@@ -32,7 +33,7 @@ Details below...
 
 # Why and How?
 
-## Mark update goals
+## English style
 
 This work seeks to render Mark's gospel in modern spoken English in a colloquiel and reverent style.  Here are some examples of what this means to this author:
 
@@ -60,10 +61,10 @@ These goals can be in tension with each other. The following principles guide ho
 -   If a direct or indirect object is separated from its referent, rearrange the word order to bring them together.
 -   For example, 2:14: As he passed by the tax office, he saw Levi the son of Alphaeus working there. Here the ASV (and presumably the Greek) separates “passed by” from its indirect object “the tax office” with the comment about meeting Levi there. Putting the IO next to its verb makes the sentence immediately more comprehensible to a modern reader and also clarifies the fact that Levi was a tax collector, clarifying the following story beginning in verse 18, without adding or removing from what was said as it was originally rendered in the ASV.
 -   Don’t translate symbols or metaphors. The Bible expects a lot of its reader and that’s ok.
--   If a thing would be obvious to one of Mark’s original readers but not to a modern reader, clarify it using a parenthetical comment, hyphens, etc. Place these clarifications in italics to preserve accountability for these being added thoughts not present in the original.
--   Translate technical theological terms whenever necessary for comprehension among today’s largely-unchurched youth. In this sense, this work is a translation, but from English to English (with input from tools illuminating the original Greek).
+-   If a thing would be obvious to one of Mark’s original readers but not to a modern reader, clarify it using a parenthetical comment, hyphens, etc. Place these clarifications in italics or add a sidenote to preserve accountability for these being added thoughts not present in the original.
+-   Translate technical theological terms whenever necessary for comprehension among today’s largely-unchurched youth.
 
-### Examples of English-to-English translation
+### Examples of translating technical theological terms
 
 Repent / repentance: These words aren’t used at all in modern spoken English and especially not among our unchurched youth.
 
