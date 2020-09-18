@@ -1,5 +1,14 @@
-The Beginning of Life, an adaptation of the American Standard Version translation of Mark by David Orme 
-is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit 
-https://creativecommons.org/licenses/by-nc-sa/4.0
+This repository contains two kinds of artifacts: (1) text of "The Beginning", and (2) "Computer software
+code" that together make up "The Beginning of Life" web site and additional programs required for people
+to read or print "The Beginning" on personal computers or portable computing devices such as (but not limited
+to) cell phones, tablets, and e-book readers.
 
+The following paragraphs further explain the above and describe how each kind of thing is licensed.
 
+(1) "The Beginning" is an adaptation and translation of the American Standard Version translation of
+"The Good News according to Mark" by David Orme; it is licensed under the terms of the CC BY-NC-SA 4.0
+license. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0
+
+(2) Computer software code, defined as files in the format(s) humans most prefer to create, change, or extend
+computer programs, is licensed under the terms of the Eclipse Public License 1.0, a copy of which is included
+here as "EPL.txt".
