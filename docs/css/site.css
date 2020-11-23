@@ -1,4 +1,4 @@
-// Logo
+/* Logo */
 
 img.wheat {
 	display: block;
@@ -7,7 +7,31 @@ img.wheat {
 	margin-right: auto;
 }
 
-// Relative sizes
+/* Special semantic markup styles */
+
+div.theme {				/* Tufte's H2 with tweaks */
+    font-style: italic;
+    font-weight: 400;
+    margin-top: 2.1rem;
+    margin-bottom: 1.4rem;
+    font-size: 2.2rem;
+	line-height: 1;
+	color: lightslategray;
+}
+
+span.vs {               /* Verse numbers are superscripted */
+	vertical-align: super;
+	font-size: smaller;
+	line-height: normal;
+}
+
+span.xref {
+	font-weight: bold;
+}
+
+/* We don't do anything special for span.notes yet */
+
+/* Relative sizes */
 
 .sans {
 	font-family: Sans-Serif;
