@@ -1,8 +1,11 @@
 ---
-title: About This Site
-excerpt: 'My goal in preparing this web site is to faithfully translate Mark''s book into contemporary spoken American English as used by those who don''t already know anything of the Bible, have no theology background, and are generally unfamiliar with church culture.  This page''s goal is to demonstrate to pastors and Bible scholars why *The Beginning of Life* is a trustworthy and faithful translation of the Bible.'
-tags: about translation translate
-modified: 2020-09-07T09:59:33-05:00
+type: blog
+date: 2019-01-01
+title: "Principles"
+cover: "https://unsplash.it/400/300/?random?BigTest"  # Fix cover art
+categories: 
+    - Mark
+tags:
 ---
 
 ## Introduction
