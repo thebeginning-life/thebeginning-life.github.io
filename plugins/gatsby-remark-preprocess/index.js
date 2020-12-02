@@ -9,11 +9,6 @@
 */
 
 exports.rules = [
-  // image
-  //{
-  //  regex: /!\[([^[]+)\]\(([^)]+)\)/g,
-  //  replacement: "<img src='$2' alt='$1'>",
-  //},
   { regex: /\(vs ([0-9]+?)\)/g, replacement: '<small><sup>$1</sup></small>' },
   { regex: /\(theme "(.*?)"\)/g, replacement: '<span class="theme">$1</span>' },
   { regex: /\(tn "(.*?)"\)/g, replacement: '[^ *$1*]' },
