@@ -15,7 +15,7 @@ export default ({ data, pageContext }) => {
   const { slug, nexttitle, nextslug, prevtitle, prevslug } = pageContext
   const postNode = data.markdownRemark
   const post = postNode.frontmatter
-  const date = postNode.fields.date
+  //const date = postNode.fields.date
   if (!post.id) {
     post.id = slug
   }
@@ -29,7 +29,7 @@ export default ({ data, pageContext }) => {
           <div>
             <h1>{post.title}</h1>
             <p className={styles.postMeta}>
-              {date} &mdash; {postNode.timeToRead} Min Read{' '}
+              {postNode.timeToRead} Min Read{' '}
             </p>
             <div className={styles.postMeta}>
               <PostTags tags={post.tags} />

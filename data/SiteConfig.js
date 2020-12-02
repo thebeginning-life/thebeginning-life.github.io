@@ -17,7 +17,7 @@ const config = {
   userTwitter: 'dvorme', // Optionally renders "Follow Me" in the Bio segment.
   userGitHub: 'coconutpalm', // Optionally renders "Follow Me" in the Bio segment.
   userLocation: 'Chicago, Illinois', // User location to display in the author segment.
-  userAvatar: 'https://i.ibb.co/WPz9CNk/avatar.jpg', // User avatar to display in the author segment.
+  userAvatar: '/images/avatar.jpg', // User avatar to display in the author segment.
   userDescription:
     "WanderingPilgr.im", // User description to display in the author segment.
   copyright: 'Copyright © 2020. All rights reserved.', // Copyright string for the footer of the website and RSS feed.
