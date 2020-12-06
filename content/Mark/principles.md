@@ -1,5 +1,6 @@
 ---
 type: blog
+issueNo: 0
 date: 2019-01-01
 title: "Principles"
 cover: "https://unsplash.it/400/300/?random?BigTest"  # Fix cover art

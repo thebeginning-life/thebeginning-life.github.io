@@ -23,8 +23,8 @@ export const pageQuery = graphql`
   query IndexQuery {
     allMarkdownRemark(
       limit: 2000
-      sort: { fields: [fields___date], order: DESC }
-      filter: { frontmatter: { type: {eq: "blog"} } }
+      sort: { fields: [frontmatter___issueNo], order: ASC }
+      filter: { frontmatter: { type: {eq: "chapter"} } }
     ) {
       edges {
         node {
@@ -35,6 +35,7 @@ export const pageQuery = graphql`
           excerpt
           timeToRead
           frontmatter {
+            issueNo
             title
             tags
             cover

@@ -15,7 +15,7 @@ export default ({ data, pageContext }) => {
   const { slug, nexttitle, nextslug, prevtitle, prevslug } = pageContext
   const postNode = data.markdownRemark
   const post = postNode.frontmatter
-  //const date = postNode.fields.date
+  const date = postNode.fields.date
   if (!post.id) {
     post.id = slug
   }
@@ -29,7 +29,7 @@ export default ({ data, pageContext }) => {
           <div>
             <h1>{post.title}</h1>
             <p className={styles.postMeta}>
-              {postNode.timeToRead} Min Read{' '}
+              {date} &mdash; {postNode.timeToRead} Min Read{' '}
             </p>
             <div className={styles.postMeta}>
               <PostTags tags={post.tags} />
@@ -66,7 +66,6 @@ export const pageQuery = graphql`
   query BlogPostBySlug($slug: [String]) {
     markdownRemark(
       fields: { slug: { in: $slug } }
-      frontmatter: { type: { eq: "blog" } }
     ) {
       html
       timeToRead
