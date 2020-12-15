@@ -34,7 +34,7 @@ export default ({ data, pageContext }) => {
             <div className={styles.postMeta}>
               <PostTags tags={post.tags} />
             </div>
-            <div dangerouslySetInnerHTML={{ __html: postNode.html }} />
+            <div className={styles.postBody} dangerouslySetInnerHTML={{ __html: postNode.html }} />
 
             <hr />
             <Bio config={config} />

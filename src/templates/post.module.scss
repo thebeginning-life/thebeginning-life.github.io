@@ -4,6 +4,17 @@
     font-size: 0.7rem;
 }
 
+.post-body {
+    padding-right: 15rem;
+}
+
+// media query chosen to match tufte.css
+@media (max-width: 760px) {
+    .post-body {
+        padding-right: 0;
+    }
+}
+
 .pagination {
     display: flex;
     flex-wrap: wrap;
