@@ -294,14 +294,14 @@ img {
 }
 
 .sidenote-number:after {
-    content: counter(sidenote-counter);
+    content: counter(sidenote-counter, lower-alpha);
     font-size: 1rem;
     top: -0.5rem;
     left: 0.1rem;
 }
 
 .sidenote:before {
-    content: counter(sidenote-counter) " ";
+    content: counter(sidenote-counter, lower-alpha) " ";
     font-size: 1rem;
     top: -0.5rem;
 }
