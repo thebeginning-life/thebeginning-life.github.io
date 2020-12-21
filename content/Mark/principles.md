@@ -100,5 +100,5 @@ In other cases, I have found that an English word that is closely related to or 
 
 For example, our culture’s understanding of *faith* is more-or-less accurate--but only if one disregards that atheists and many scientists believe that faith is fundamentally an irrational or unscientific thing.
 
-Consequently, I believe that perhaps the word *faith* itself may not be wise to use in a modern English translation.  However, in common use words derived from *faith* remain *faithful* to the Bible meaning, and in many cases we can *faithfully* use those instead.
+Consequently, I believe that perhaps the word *faith* itself may not be wise to use in a modern English translation.  However, in common use words derived from *faith* remain *faithful* to the Bible meaning, and in many cases we can *faithfully* use those to substitute for and/or to clarify in situations where *faith* is called for.
 
