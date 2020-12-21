@@ -2,7 +2,7 @@
 type: blog
 issueNo: 0
 date: 2019-01-01
-title: "Principles"
+title: "Translation Principles"
 cover: "https://unsplash.it/400/300/?random?BigTest"  # Fix cover art
 categories: 
     - Mark
@@ -94,7 +94,3 @@ Retain Mark’s “overuse” of the word “immediately”. It is this author�
 
 When a global mechanical search-and-replace update works, use it to retain continuity with the underlying Greek when possible. For example: *Behold* → *Look!* Or: *multitude* → *large crowd; great multitude → very large crowd.*
 
-Many modern bibles include section headers describing the events or ideas immediately following. And most do a pretty good job of remaining descriptive rather than interpreting the text. Since the intent of this work is to not just update the English rendering of Mark’s gospel but to help unchurched and new believers to understand how to be a disciple of Jesus, I have chosen to change this convention as follows:
-
--   Instead of including headers inline with the text, I have chosen to add vertical white space separating sections.
--   At the beginning of some sections I have included a footnote (marked using ^**th**^ as described in the footnote key) to a short phrase explaining a theme Mark is developing in the following story/thought in its context. These are intended to be similar to section headers in contemporary bibles, but as they offer commentary on the text are not included inline.
