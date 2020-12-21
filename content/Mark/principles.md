@@ -92,17 +92,13 @@ Sin: In colloquial English, this word simply means “a bad thing” or “a bad
 
 Theologically this is beyond inaccurate. Further, we would rarely-to-never refer to someone as a “sinner” in spoken English in the Bible sense of the word outside a church (or even inside most churches). As a result, this author believes the word “sin” has completely lost its meaning in spoken English.
 
-Consequently, in this instance I prefer to describe the general idea of “sin” rather than to use the word directly. But how? ”Sin” and “repent/repentance” are both very broad and general ideas that are developed throughout Scripture. Here are some principles I’ve used to resolve these difficulties.
+Other concerns happen because different parts of languages change differently over time so some English words' meaning may still be largely faithful but need elaboration or careful adjustment.
 
-1.  When these ideas first appear in Mark, they do so in a context that already illuminates those ideas. For example, when John preaches “a baptism of repentance for the forgiveness of sins” it is in the context of *preparing the road*, of *making his paths straight.*  In this context I believe it is accurate and fair to translate repentance as requiring people *to choose God’s path.* In other words, in situations like this allowing the Bible to interpret itself presents one way to resolve this quandry.
+In some of these cases I have felt it more appropriate to include the theological term used in the text, but with a (usually parenthetical) elaboration or explanation in the context.  (tn "Sometimes I've used a sidenote to clarify the original authorial intent when retaining a traditional rendering.")
 
-2.  In context, repentance is the antidote to sin, but what is the essence of sin? How can we express it succinctly in a way that makes sense in context? Considering the weight of Scripture, sin isn’t not just disobedience. It can be done in ignorance. It can be simply an inappropriate motive, thought, or intention driving an action that is in itself not sinful. For this I searched the Scriptures to find other descriptions of sin, even if the word itself wasn’t spelled out, and landed in James 4, “you do not have because you do not ask, or because you ask with wrong motives, that you may spend what you get on your own pleasures.”
+In other cases, I have found that an English word that is closely related to or derived from the original word that hasn’t yet lost its Bible meaning and connotation.
 
-Of course, because different parts of languages change differently over time there are few absolutes regarding the best approach in a specific instance.
+For example, our culture’s understanding of *faith* is more-or-less accurate--but only if one disregards that atheists and many scientists believe that faith is fundamentally an irrational or unscientific thing.
 
-In some contexts I have felt it more appropriate to include the theological term used in the text, but with a (usually parenthetical) elaboration or explanation in the context.
-
-In other cases, I have found that an English word that is closely related to the original word that hasn’t yet lost its Bible meaning and connotation.
-
-For example, our culture’s understanding of *faith* is more-or-less accurate--but only if one disregards that many advocate that faith is fundamentally an irrational thing.  Consequently, perhaps the word *faith* itself may not be wise to use in a modern English translation.  But in common use, other words derived from *faith* remain *faithful* to the Bible meaning, and we can *faithfully* use those instead.
+Consequently, I believe that perhaps the word *faith* itself may not be wise to use in a modern English translation.  However, in common use words derived from *faith* remain *faithful* to the Bible meaning, and in many cases we can *faithfully* use those instead.
 
