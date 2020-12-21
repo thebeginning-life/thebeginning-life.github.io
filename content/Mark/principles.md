@@ -84,7 +84,7 @@ These goals can be in tension with each other. The following principles guide ho
 * Consider the immediate context.  For example, Mark uses the word *baptize* in two ways: the ceremonial way described above and also when *preaching baptism [of repentance for the forgiveness of sins]*.  This latter case can borrow from the context immediately preceeding combined with appropriate translation sidenotes: *need to immerse their affections(tn "a baptism") in God's straight paths instead of their own(tn "of repentance").*  See below for more examples.
 * Consider the weight of Scripture.  Sometimes another scripture provides an excellent explanation or definition.  Continuing in verse 4, "a baptism of repentance for the forgiveness *of sins."*  Here "sins" is used in general sense, so we need a concise, faithful expression describing "sin" in the general sense.  Here we can still let Scripture interpret Scripture by rendering this as "forgiven for *preferring selfish pleasure (and the hurt that this causes) instead"* along with a cross-reference to *James 4:1-3* from where this idea was directly lifted.
 
-### More examples of translating technical theological terms
+### More examples and concerns relevent when translating technical theological terms
 
 Repent / repentance: These words aren’t used at all in modern spoken English and especially not among our unchurched youth.
 
