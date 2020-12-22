@@ -119,9 +119,9 @@ The ASV is a formal equivalence translation. Retain this rigor in the update wit
 These goals can be in tension with each other. The following principles guide how I have resolved these tensions. I’ve included specific examples where needed to clearly explain a thought.
 
 * Don’t change the meaning; simply update the style of English to the goals above.
-* Retain Mark’s “overuse” of the word “immediately”. It is this author’s belief that Mark is intentionally using repetition to make a point.
+* Retain Mark’s "overuse" of the word "immediately". It is this author’s belief that Mark is intentionally using repetition to make a point.
 * When a global mechanical search-and-replace update works, use it to retain continuity with the underlying Greek when possible. For example: *Behold* → *Look!*, *wilderness* → *desert*, *multitude* → *large crowd; great multitude → very large crowd.*, etc.
-* When appropriate, change to active voice. For example, in 1:26: “The unclean spirit convulsed the man, shrieked loudly, and came out of him.”
+* When appropriate, change to active voice. For example, in 1:26: "The unclean spirit convulsed the man, shrieked loudly, and came out of him."
 * Simplify wording of lists to modern spoken English standards. 1:26 above is an example of this.
 * A single thought gets a single sentence. Closely-related thoughts or those utilizing parallelism get a single sentence with semicolons separating each thought.
 * Break up excessively long sentances.  But be careful to retain relative emphasis among thoughts present in the original.
@@ -130,7 +130,7 @@ These goals can be in tension with each other. The following principles guide ho
 * Use parentheses and hyphens (as appropriate) when a thought is interrupted by another one. Prefer using punctuation over rearranging word order.
 * Rearrange word order only judiciously and being careful to preserve the emphases each individual idea in a sentence receives.
 * If a direct or indirect object is separated from its referent, rearrange the word order to bring them together.
-* For example, 2:14: As he passed by the tax office, he saw Levi the son of Alphaeus working there. Here the ASV (and the Greek) separates “passed by” from its indirect object “the tax office” with an interjection about Jesus meeting Levi there. Putting the IO next to its verb makes the sentence immediately more comprehensible to a modern reader and also clarifies the fact that Levi was a tax collector.  This also clarifies the following story beginning in verse 18, without adding or removing from what was said.
+* For example, 2:14: As he passed by the tax office, he saw Levi the son of Alphaeus working there. Here the ASV (and the Greek) separates "passed by" from its indirect object "the tax office" with an interjection about Jesus meeting Levi there. Putting the IO next to its verb makes the sentence immediately more comprehensible to a modern reader and also clarifies the fact that Levi was a tax collector.  This also clarifies the following story beginning in verse 18, without adding or removing from what was said.
 * Don’t translate symbols or metaphors. The Bible expects a lot of its reader and that’s ok.  See above.
 * If a thing would be obvious to one of Mark’s original readers but not to a modern reader, clarify it using rewording, a parenthetical comment, hyphens, etc.  Add a sidenote to preserve accountability.
 * Translate technical theological terms whenever necessary for comprehension among today’s largely-unchurched youth.
@@ -142,9 +142,9 @@ These goals can be in tension with each other. The following principles guide ho
 
 Repent / repentance: These words aren’t used at all in modern spoken English and especially not among our unchurched youth.
 
-Sin: In colloquial English, this word simply means “a bad thing” or “a bad person”. But in common use today when the word is used at all it is frequently used in an ironic or sarcastic way. The effect is to change “sin” from an undesirable to a desirable thing—and sometimes even makes fun of the whole concept of sin to begin with.
+Sin: In colloquial English, this word simply means "a bad thing" or "a bad person". But in common use today when the word is used at all it is frequently used in an ironic or sarcastic way. The effect is to change "sin" from an undesirable to a desirable thing—and sometimes even makes fun of the whole concept of sin to begin with.
 
-Theologically this is beyond inaccurate. Further, we would rarely-to-never refer to someone as a “sinner” in spoken English in the Bible sense of the word outside a church (or even inside most churches). As a result, this author believes the word “sin” has completely lost its meaning in spoken English.
+Theologically this is beyond inaccurate. Further, we would rarely-to-never refer to someone as a "sinner" in spoken English in the Bible sense of the word outside a church (or even inside most churches). As a result, this author believes the word "sin" has completely lost its meaning in spoken English.
 
 Other concerns happen because different parts of languages change differently over time so some English words' meaning may still be largely faithful but need elaboration or careful adjustment.
 
