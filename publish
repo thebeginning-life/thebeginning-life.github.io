@@ -9,5 +9,5 @@ rm -fr .cache
 gatsby build
 cp CNAME docs
 git add docs
-git commit -a -m "$1"
+git commit -a -m "PUBLISH: $1"
 git push
