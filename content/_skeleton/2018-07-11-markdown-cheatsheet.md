@@ -1,30 +1,31 @@
 ---
-type: blog
+type: example
 date: 2018-07-11
-title: "Big Test"
+title: "Markdown Cheatsheet"
 cover: "https://unsplash.it/400/300/?random?BigTest"
 categories: 
-    - Tech
-slug: "Big-Sample_Test"
+    - Markdown
+slug: "markdown-cheatsheet"
 tags:
-    - test
 ---
 
-## NOTE: This "post" is based on [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and is meant to test styling of Markdown generated documents.
+> NOTE: This document is based on [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) with extensions for sidenotes in the style of Edward Tufte's work.[^{-} From Edward Tufte, *Visual Display of Quantitative Information*, page 92.]. 
+>
+> Here we illustrate how to typeset various things using Markdown.  For performance, we haven't enabled all of the features illustrated below; the features that don't render properly self-document which features aren't implemented.
 
+## Prefaces and references
 
-This is intended as a quick reference and showcase[^{-} From Edward Tufte, *Visual Display of Quantitative Information*, page 92.]. For more complete info, see [John Gruber's original spec](http://daringfireball.net/projects/markdown/) and the [Github-flavored Markdown info page](http://github.github.com/github-flavored-markdown/).
+For more complete information, see [John Gruber's original spec](http://daringfireball.net/projects/markdown/) and the [Github-flavored Markdown info page](http://github.github.com/github-flavored-markdown/).
 
 This cheatsheet is specifically *Markdown Here's* version of Github-flavored Markdown. This differs slightly in styling and syntax from what Github uses, so what you see below might vary a little from what you get in a *Markdown Here* email, but it should be pretty close.
 
-You can play around with Markdown on our [live demo page](http://www.markdown-here.com/livedemo.html).
-
-(If you're not a Markdown Here user, check out the [Markdown Cheatsheet](./Markdown-Cheatsheet) that is not specific to MDH. But, really, you should also use Markdown Here, because it's awesome. http://markdown-here.com)
-
-![park](./images/park.jpg)
+You can play around with Markdown on the *markdown-here* [live demo page](http://www.markdown-here.com/livedemo.html).
 
 
-##### Table of Contents
+
+![park](../images/park.jpg)
+
+## Table of Contents
 
 [Headers](#headers)
 [Emphasis](#emphasis)
