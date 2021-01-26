@@ -19,6 +19,13 @@ export default ({ data, pageContext }) => {
   if (!post.id) {
     post.id = slug
   }
+
+  /*
+            <div className={styles.postMeta}>
+              <PostTags tags={post.tags} />
+            </div>
+  */
+
   return (
     <Layout>
         <main>
@@ -31,9 +38,6 @@ export default ({ data, pageContext }) => {
             <p className={styles.postMeta}>
               {date} &mdash; {postNode.timeToRead} Min Read{' '}
             </p>
-            <div className={styles.postMeta}>
-              <PostTags tags={post.tags} />
-            </div>
             <div className={styles.postBody} dangerouslySetInnerHTML={{ __html: postNode.html }} />
 
             <hr />
