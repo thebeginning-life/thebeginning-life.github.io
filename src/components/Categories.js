@@ -6,7 +6,7 @@ const Categories = props => {
   const data = useStaticQuery(graphql`
     query {
       allMarkdownRemark(limit: 2000
-                        filter: { frontmatter: { type: {eq: "blog"} } }) {
+                        filter: { frontmatter: { type: {in: ["chapter", "blog"]} } }) {
         group(field: frontmatter___categories) {
           fieldValue
           totalCount

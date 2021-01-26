@@ -1,11 +1,11 @@
 ---
 type: blog
-issueNo: 0
+issueNo: 99
 date: 2020-12-21
 title: "Why this project and what principles guide it?"
 cover: "https://unsplash.it/400/300/?random?BigTest"  # Fix cover art
 categories: 
-    - Mark
+    - About
 tags:
 ---
 
