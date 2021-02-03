@@ -77,6 +77,7 @@ exports.createPages = async ({ graphql, actions }) => {
               }
               frontmatter {
                 title
+                issueNo
                 tags
                 categories
                 date
@@ -99,20 +100,11 @@ exports.createPages = async ({ graphql, actions }) => {
   const postsEdges = markdownQueryResult.data.allMarkdownRemark.edges;
 
   postsEdges.sort((postA, postB) => {
-    const dateA = moment(
-      postA.node.frontmatter.date,
-      siteConfig.dateFromFormat
-    );
+    const aWeight = postA.node.frontmatter.issueNo || Number.MAX_SAFE_INTEGER;
+    const bWeight = postB.node.frontmatter.issueNo || Number.MAX_SAFE_INTEGER;
+    const relativeWeight = aWeight - bWeight;
 
-    const dateB = moment(
-      postB.node.frontmatter.date,
-      siteConfig.dateFromFormat
-    );
-
-    if (dateA.isBefore(dateB)) return 1;
-    if (dateB.isBefore(dateA)) return -1;
-
-    return 0;
+    return Math.min(Math.max(relativeWeight, -1), 1)
   });
 
   postsEdges.forEach((edge, index) => {
@@ -128,8 +120,18 @@ exports.createPages = async ({ graphql, actions }) => {
       })
     }
 
-    const nextID = index + 1 < postsEdges.length ? index + 1 : 0;
-    const prevID = index - 1 >= 0 ? index - 1 : postsEdges.length - 1;
+    function nextIdNo(curId) {
+      const maybeNext = curId + 1 < postsEdges.length ? curId + 1 : 0;
+      return postsEdges[maybeNext].node.frontmatter.issueNo ? maybeNext: nextIdNo(maybeNext);
+    }
+    const nextID = nextIdNo(index)
+
+    function prevIdNo(curId) {
+      const maybePrev = curId - 1 >= 0 ? curId - 1 : postsEdges.length - 1;
+      return postsEdges[maybePrev].node.frontmatter.issueNo ? maybePrev: prevIdNo(maybePrev);
+    }
+    const prevID = prevIdNo(index);
+
     const nextEdge = postsEdges[nextID];
     const prevEdge = postsEdges[prevID];
 
