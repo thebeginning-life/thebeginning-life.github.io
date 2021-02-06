@@ -33,7 +33,8 @@ const PostListing = ({ postEdges }) => {
                 {post.date} &mdash; <span>{post.categories.join(' / ')}</span>{' '}
                 &mdash; {post.timeToRead} Min Read{' '}
               </div>
-              <p>{post.excerpt}</p>
+              <p className={styles.excerpt} dangerouslySetInnerHTML={{__html: post.excerpt}}></p>
+              {/* <p>{post.excerpt}</p> */}
             </div>
           </article>
         </Link>
