@@ -14,7 +14,7 @@ const config = {
   dateFormat: 'MM/DD/YYYY', // Date format for display.
   userName: 'Dave Orme', // Username to display in the author segment.
   userEmail: 'dvorme@gmail.com', // Email used for RSS feed's author segment
-  userTwitter: 'dvorme', // Optionally renders "Follow Me" in the Bio segment.
+  userTwitter: '', // Optionally renders "Follow Me" in the Bio segment.
   userGitHub: 'coconutpalm', // Optionally renders "Follow Me" in the Bio segment.
   userLocation: 'Chicago, Illinois', // User location to display in the author segment.
   userAvatar: '/images/avatar.jpg', // User avatar to display in the author segment.
