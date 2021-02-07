@@ -1,60 +1,15 @@
 ---
 type: blog
-date: 2020-12-21
-title: "Why this project and what principles guide it?"
+date: 2021-2-6
+title: "Principles of translation"
 cover: "https://unsplash.it/400/300/?random?BigTest"  # Fix cover art
 categories: 
     - About
 tags:
 ---
+## Principles of translation
 
-## Why this project is necessary
-
-My experience speaking with others of my generation (commonly known as generation X) about the Bible and about Christianity has been that, most people are aware of the Bible meanings of theological words and ideas as presented in modern translations.  
-
-For example, people in my generation generally know what a Christian means when s/he uses words like "sin", "repent", "righteous", "Satan", "evil spirit, unclean spirit, demon", etc.  And many in my generation have a cultural understanding of the Good News--at least enough to be innoculated to it and have their preconceived reasons for rejecting it.  That is the bad news.
-
-However, the good news for my generation is that many who are hungry to know the God of the Bible already have the required background to understand the Bible using many of the excellent modern translations.
-
-On the other hand (in my own experience) many from the younger generation that is coming of age right now have none of this background understanding of theological terms needed to become a disciple of Jesus.
-
-This is both an opportunity and a challenge.
-
-### The hunger
-
-In my experience, I have never met a group of people more hungry to know about God generally and the God of the Bible specifically than this younger generation.  I regularly experience members of this generation immediately ask me to teach them how to know God as soon as they learn that I am a Christian.
-
-### The challenge
-
-Unfortunately, my experience has also been that when they try to read modern Bible translations these same people quickly bog down in technical theological terms like those listed above and lose interest.  Forcing technical theological terms on new disciples of Jesus right at the beginning of their walk in my own experience has proven profoundly counter-productive to the Church's mission to make disciples of Jesus Christ.
-
-### The opportunity
-
-Mark's stated objective at the start of his book is to present "the *beginning* of the Good News of Jesus Christ, the Son of God."  
-
-And I believe that if we take Mark's word as gospel (inspired by the Holy Spirit) this offers a simple, straightforward, and direct way to become a true disciple of Jesus Christ as well as to make disciples of Jesus Christ as he commanded.
-
-The *Romans Road,* the *four spiritual laws,* along with programs like *Evangelism Explosion* and others have borne fruit.  Many have found their way to becoming a disciple of Jesus through these synopses of the Good News.
-
-But I believe that starting with Mark (because he alone claims to start at the beginning) and studying sequentially and *inductively* offers a more direct road into Jesus the Truth, Christ the Door, Jesus the Way, and Jesus the Life.  This approach depends simply on obtaining a faithful translation of Mark that itself translates these theological and/or cultural terms into understandable colloquial spoken English that any random native English speaker would readily comprehend.
-
-I haven't been able to find others with this vision, so I am beginning this work myself, in the open, hoping that others with skillsets complimenting my own offer their own expertise.  And hoping that in the end this work becomes an effort representative of the Body of Christ herself and her mission to effectively make disciples of Jesus before the last day comes.
-
-### My own skillset
-
-I became a disciple of Jesus Christ as a middle-schooler and have been a passionate student of the Bible since.  While I have experienced seasons during which my strength or my total commitment to Jesus has faltered, I have never let go of my fundamental profound desire to be a disciple of Jesus and a student of the Bible.
-
-I am not a Hebrew or Greek scholar but my wife is a Biblical Hebrew scholar and I'm not afraid of Greek interlinears and/or Hebrew/Greek lexicons.  These are a regular part of my personal study of the Scriptures.
-
-Regarding Bible translation, I served a summer internship with Wycliffe Bible Translators as a high school student, grew up in the same church as Ken Taylor who originally updated the ASV--the result being published as The Living Bible paraphrase.  I am a friendly acquaintance of Mark Taylor (Ken's son), and am familiar with many of the theological and political considerations surrounding a "layperson" updating an existing translation and having it remain properly a trustworthy translation instead of a "mere paraphrase."
-
-My main personal weakness is that I have very little background in textual criticism, and while I understand some fundamental principles such as "the 'harder reading' more likely being original" I cannot hope to evaluate alternate renderings myself the way a scholar with this training could.  To remediate this deficiency, I am relying on scholarly textual notes in the NET Bible 2.0, other study Bibles, and other readily-available scholarly resources.  And if any of these suggest an alternate rendering to be more accurate than the traditional ASV translation, I'll cite my source(s)--probably in a footnote but this is undecided as this concern has yet to present itself.
-
-Naturally, if a scholar with experience in Bible translation and (particularly with) expertise in textual criticism wishes to help address any possible weaknesses I bring in this area, I would be delighted to collaborate.
-
-## Guiding principles
-
-My goal in preparing this translation is to faithfully update the American Standard Version of Mark into contemporary spoken American English as used by those who don't already know anything of the Bible, have no theology background, and are generally unfamiliar with church culture.  
+The purpose in preparing this translation is to faithfully update the American Standard Version of Mark into contemporary spoken American English as used by those who don't already know anything of the Bible, have no theology background, and are generally unfamiliar with church culture.  
 
 If you do not have a technical background in Bible translation and are still interested, read on.  I will do my best to remain understandable for you too but some of the following will necessarily use scholarly language in order to communicate as clearly as possible with scholars.
 
