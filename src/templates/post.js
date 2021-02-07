@@ -8,7 +8,7 @@ import SocialLinks from '../components/SocialLinks'
 import SEO from '../components/SEO'
 import config from '../../data/SiteConfig'
 import styles from './post.module.scss'
-import './prism-okaidia.css'
+// import './prism-okaidia.css'
 import './tufte.css'
 
 export default ({ data, pageContext }) => {

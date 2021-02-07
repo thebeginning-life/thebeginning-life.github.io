@@ -171,12 +171,12 @@ blockquote {
 }
 
 blockquote p {
-    width: 55%;
+    /* width: 55%; */
     margin-right: 40px;
 }
 
 blockquote footer {
-    width: 55%;
+    /* width: 55%; */
     font-size: 1.1rem;
     text-align: right;
 }
@@ -308,8 +308,8 @@ img {
 
 blockquote .sidenote,
 blockquote .marginnote {
-    margin-right: -82%;
-    min-width: 59%;
+    margin-right: -90%;
+    min-width: 60%;
     text-align: left;
 }
 
