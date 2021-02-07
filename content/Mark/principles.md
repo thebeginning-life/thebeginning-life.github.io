@@ -7,26 +7,22 @@ categories:
     - About
 tags:
 ---
-## Because this is the beginning
-
+(theme "Because this is the beginning")
 The purpose in preparing this translation is to faithfully update the American Standard Version of Mark into contemporary spoken American English as used by those who don't already know anything of the Bible, have no theology background, and are generally unfamiliar with church culture.  
 
 If you do not have a technical background in Bible translation and are still interested, read on.  I will do my best to remain understandable for you too but some of the following will necessarily use scholarly language in order to communicate as clearly as possible with scholars.
 
-### More technically...
-
+(theme "More technically...")
 *The Beginning of Life* is an updated translation of the book of Mark.  It is a direct derivative work of the *American Standard Version* and the *[World English Bible](https://worldenglish.bible)* (WEB) translations of the Bible.  The WEB is itself a partial update of the American Standard Version translation.
 
-### Overall principles of translation
-
+(theme "Overall principles of translation")
 In preparing this translation, I have drawn on the underlying Greek and/or Hebrew, the rest of the Bible, other modern English translations of the Bible, and scholarly input.
 
 The translation is heavily biased toward formal equivalance in vocabulary, resorting to dynamic equivalence when necessary.  When dynamic equivalence is used to translate a technical term, the formal equivalent and/or traditional translation is preserved as a side note next to the text.  I have used this and other typographical conventions to help with readability while maintaining accuracy.
 
 Formally-equivalent word orderings are preferred but this is heavily in tension with this work's readability goals.  I have included detailed explanations about various ways I resolve this tension below.
 
-### Typographical conventions
-
+(theme "Typographical conventions")
 Here is an exhaustive list of these conventions: (sn "These owe a great debt to the work of [Edward Tufte](https://edwardtufte.github.io/tufte-css/)")
 
 Here is some text(sn "This is a study note with context helpful for understanding the text.") that might benefit from additional context.
@@ -42,14 +38,12 @@ Cross reference,(xr "Jhn 1:1-14") hyperlinked to the NLT translation on *bible.c
   * Link to Old Testament passages when they are quoted or alluded to.
   * Link to other Bible passages that further explain what Mark is saying and/or offer context regarding the current topic in the text.
 
-#### Typographical challenges
-
+(theme "Typographical challenges")
 The underlying text is maintained in plain text files using an extended Markdown-derived markup language.  
 
 Currently the only drawback of this format is that it offers no way to properly typeset poetry, render "acolon" and "bcolon" lines, etc.  These are currently typeset as a blockquote using line breaks to separate poetry sections from each other.
 
-### Principles of English style
-
+(theme "Principles of English style")
 This work seeks to render Mark's gospel in modern spoken English in a colloquial and yet reverent style.  Here are some examples of what this means to this author:
 
 * Shorter sentences, fragments.
@@ -58,7 +52,7 @@ This work seeks to render Mark's gospel in modern spoken English in a colloquial
 
 I am currently targeting a 9th or 10th grade (US) reading level.
 
-#### Word ordering and formal vs. dynamic equivalence
+(theme "Word ordering and formal vs. dynamic equivalence")
 
 At best, Greek word ordering is bad English style to native English speakers and is confusing to understand at worst. This reworking should respect principles of excellent English style while retaining the academic rigor present in the original ASV text.
 
@@ -66,13 +60,11 @@ The result should be immediately understandable by unchurched or lightly-churche
 
 Offensive or confusing things Jesus said and did are retained and not explained. Metaphors that Jesus or Mark used are retained because these add depth and dimension to their context that otherwise would be lost.  Also, many symbols and metaphors appear in a remarkably consistent way throughout the Bible so this author believes that retaining the symbols and metaphors is important to developing a cohesive understanding of the entire Bible.
 
-### Detailed notes on formal versus dynamic equivalence
-
+(theme "Detailed notes on formal versus dynamic equivalence")
 The ASV is a formal equivalence translation. Retain this rigor in the update within the structure of what would be considered excellent (if colloquial, spoken) English style. On the other hand, all translation work necessarily has an element of interpretation--particularly when a word in the source language does not have a direct equivalent in the target language. In these situations, switch to dynamic equivalence while remaining as close to formal equivalence as possible.
 
 These goals can be in tension with each other. The following principles guide how I have resolved these tensions. I’ve included specific examples where needed to clearly explain a thought.
 
-* Don’t change the meaning; simply update the style of English to the goals above.
 * Retain Mark’s "overuse" of the word "immediately". It is this author’s belief that Mark is intentionally using repetition to make a point.
 * When a global mechanical search-and-replace update works, use it to retain continuity with the underlying Greek when possible. For example: *Behold* → *Look!*, *wilderness* → *desert*, *multitude* → *large crowd; great multitude → very large crowd.*, etc.
 * When appropriate, change to active voice. For example, in 1:26: "The unclean spirit convulsed the man, shrieked loudly, and came out of him."
@@ -92,8 +84,7 @@ These goals can be in tension with each other. The following principles guide ho
 * Consider the immediate context.  For example, Mark uses the word *baptize* in two ways: the ceremonial way described above and also when *preaching baptism [of repentance for the forgiveness of sins]*.  This latter case can borrow from the context immediately preceeding combined with appropriate translation sidenotes: *need to immerse their affections(tn "a baptism") in God's straight paths instead of their own(tn "of repentance").*  See below for more examples.
 * Consider the weight of Scripture.  Sometimes another scripture provides an excellent explanation or definition.  Continuing in verse 4, "a baptism of repentance for the forgiveness *of sins."*  Here "sins" is used in general sense, so we need a concise, faithful expression describing "sin" in the general sense.  Here we can still let Scripture interpret Scripture by rendering this as "forgiven for *preferring selfish pleasure (and the hurt that this causes) instead"* along with a cross-reference to *James 4:1-3* from where this idea was directly lifted.
 
-### More discussion about translating technical theological terms
-
+(theme "More discussion about translating technical theological terms")
 Repent / repentance: These words aren’t used at all in modern spoken English and especially not among our unchurched youth.
 
 Sin: In colloquial English, this word simply means "a bad thing" or "a bad person". But in common use today when the word is used at all it is frequently used in an ironic or sarcastic way. The effect is to change "sin" from an undesirable to a desirable thing—and sometimes even makes fun of the whole concept of sin to begin with.

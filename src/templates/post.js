@@ -40,8 +40,8 @@ export default ({ data, pageContext }) => {
             </p>
             <div className={styles.postBody} dangerouslySetInnerHTML={{ __html: postNode.html }} />
 
-            <hr />
-            <Bio config={config} />
+            {/* <hr /> */}
+            {/* <Bio config={config} /> */}
             <div className={styles.postMeta}>
               <SocialLinks postPath={slug} postNode={postNode} />
             </div>
