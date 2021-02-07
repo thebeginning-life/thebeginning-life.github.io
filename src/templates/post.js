@@ -73,7 +73,7 @@ export const pageQuery = graphql`
     ) {
       html
       timeToRead
-      excerpt
+      excerpt(format: HTML, pruneLength: 170)
       frontmatter {
         title
         cover

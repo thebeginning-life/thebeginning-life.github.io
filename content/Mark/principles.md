@@ -7,7 +7,7 @@ categories:
     - About
 tags:
 ---
-## Principles of translation
+## Because this is the beginning
 
 The purpose in preparing this translation is to faithfully update the American Standard Version of Mark into contemporary spoken American English as used by those who don't already know anything of the Bible, have no theology background, and are generally unfamiliar with church culture.  
 
