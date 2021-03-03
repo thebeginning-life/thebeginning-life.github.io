@@ -30,7 +30,7 @@ To understand Mark, I believe it is important to keep the following principles i
 
 That might sound confusing, so here are two thoughts to get you started.  Mark's book has two overarching points and basically asks two questions:
 
-  * Will you be baptized--not just ceremonially, but in your heart also, as described in [chapter 1](/mark-1).
+  * Will you be fully immersed--not just ceremonially, but in your heart also, as described in [chapter 1](/mark-1).
   * Who is Jesus?  What will you do with your understanding of Jesus?  If you could be among Jesus's listeners, with which group would you identify the most?  What kinds of things does Jesus say to the people you identify with the most?  Is Jesus right about you?  Do you like what this implies about you?
   
 (theme "Ultimately Mark asks you to consider")
