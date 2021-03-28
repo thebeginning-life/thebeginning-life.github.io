@@ -9,7 +9,7 @@
 */
 
 exports.rules = [
-  { regex: /\(vs ([0-9]+?)\)/g, replacement: '<small><sup>$1</sup></small>' },
+  { regex: /\(vs ([0-9]+?)\)/g, replacement: '<small><sup>$1<a name="$1"></a></sup></small>' },
   { regex: /\(theme "(.*?)"\)/g, replacement: '<span class="theme">$1</span>' },
   { regex: /\(tn "(.*?)"\)/g, replacement: '[^ *$1*]' },
   { regex: /\(sn "(.*?)"\)/g, replacement: '[^{-} $1]' },

@@ -12,6 +12,8 @@ h6 {
   margin-top: 1rem;
 }
 
+$sticky-breakpoint: 32em;
+
 main {
   margin-left: auto;
   margin-right: auto;
@@ -20,6 +22,10 @@ main {
   flex-direction: column;
   min-height: 100vh;
   padding: 20px;
+
+  @media (min-height: $sticky-breakpoint) {
+    scroll-padding-top: 32em; // 1
+  }
 }
 
 article {
