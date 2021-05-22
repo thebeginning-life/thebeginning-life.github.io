@@ -1,6 +1,10 @@
+* {
+    scroll-behavior: smooth;
+}
+
 body {
-  margin: 0;
-  background: #00180a;
+    margin: 0;
+    background: #00180a;
 }
 
 h1,
@@ -9,30 +13,34 @@ h3,
 h4,
 h5,
 h6 {
-  margin-top: 1rem;
+    margin-top: 1rem;
 }
 
 $sticky-breakpoint: 32em;
 
 main {
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 50rem;
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
-  padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 50rem;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    padding: 20px;
 
-  @media (min-height: $sticky-breakpoint) {
-    scroll-padding-top: 32em; // 1
-  }
+    @media (min-height: $sticky-breakpoint) {
+        scroll-padding-top: 32em; // 1
+    }
+}
+
+sup[class*="verse"] {
+    scroll-margin-top: 10em;
 }
 
 article {
-  height: 90%;
+    height: 90%;
 
-  &:hover {
-    box-shadow: 0px 11px 22px 12px #eee;
-    border-radius: 5px;
-  }
+    &:hover {
+        box-shadow: 0px 11px 22px 12px #eee;
+        border-radius: 5px;
+    }
 }
