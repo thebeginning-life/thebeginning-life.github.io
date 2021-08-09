@@ -5,6 +5,7 @@ if [ -z "$1" ]; then
     exit 1
 fi
 
+nvm use node
 rm -fr .cache
 gatsby build
 cp CNAME docs
