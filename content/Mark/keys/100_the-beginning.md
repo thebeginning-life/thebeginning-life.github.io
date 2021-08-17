@@ -24,3 +24,5 @@ How?   Here is a summary of the choices Mark invites his reader to make:
 
 (theme "Conclusion")
 These are difficult things to ask anyone to consider.  The rest of Mark's book offers the information we need to decide how we will respond.
+
+As you read, I encourage you to expectantly trust that God will help you to understand and will help you know how to respond.
