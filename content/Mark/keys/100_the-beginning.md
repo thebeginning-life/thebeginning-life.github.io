@@ -18,9 +18,9 @@ Here is not a baby in a manger.  Here is not a child who wise kings searched for
 
 How?   Here is a summary of the choices Mark invites his reader to make:
 
-1. To admit that our life's paths haven't always been straight.  Sometimes they have been crooked.  The first thing, then, is to straighten our paths as much as we know how to do.  Apologize to anyone we have wronged and do whatever is needed to make it right.  Apologize--most of all--to God whose loving principles we have disregarded, preferring selfish pleasure instead. (mk "1:1-1:6")
-2. To recognize Jesus as the Ruler--and invite him to be our own ruler too. (mk "1:3")
-3. To know Jesus as King--and to pledge our allegiance to him. (mk "1:15")
+1. To admit that our life's paths haven't always been straight.  Sometimes they have been crooked.  The first thing, then, is to straighten our paths as much as we know how to do.  Apologize to anyone we have wronged and do whatever is needed to make it right.  Apologize--most of all--to God whose loving principles we have disregarded, preferring selfish pleasure instead. (mrk "1:1-1:6")
+2. To recognize Jesus as the Ruler--and invite him to be our own ruler too. (mrk "1:3")
+3. To know Jesus as King--and to pledge our allegiance to him. (mrk "1:15")
 
 (theme "Conclusion")
 These are difficult things to ask anyone to consider.  The rest of Mark's book offers the information we need to decide how we will respond.

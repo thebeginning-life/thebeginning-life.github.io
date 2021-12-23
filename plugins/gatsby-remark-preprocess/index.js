@@ -5,7 +5,7 @@
 (sn "study note")
 (key "dig-deeper note(/dig-deeper-note)")
 (vs 1)
-(mk "1:3")
+(mrk "1:3")
 (xr "Book 3:23")
 
 */
@@ -17,21 +17,21 @@ exports.rules = [
     { regex: /\(tn "(.*?)"\)/g, replacement: '[^ *$1*]' },
     // cross-refernces within Mark
     {
-        regex: /\(mk "([0-9]+?)"\)/g,
+        regex: /\(mrk "([0-9]+?)"\)/g,
         replacement:
         '<label class="margin-toggle"></label>' +
             '<input type="checkbox" class="margin-toggle"/>' +
             '<span class="marginnote"><a href="/mark-$1"><em>Mrk $1</em></a></span>',
     },
     {
-        regex: /\(mk "([0-9]+?):([0-9]+?)"\)/g,
+        regex: /\(mrk "([0-9]+?):([0-9]+?)"\)/g,
         replacement:
         '<label class="margin-toggle"></label>' +
             '<input type="checkbox" class="margin-toggle"/>' +
             '<span class="marginnote"><a href="/mark-$1#$2"><em>Mrk $1:$2</em></a></span>',
     },
     {
-        regex: /\(mk "([0-9]+?):([0-9]+?)-([0-9]+?):([0-9]+?)"\)/g,
+        regex: /\(mrk "([0-9]+?):([0-9]+?)-([0-9]+?):([0-9]+?)"\)/g,
         replacement:
         '<label class="margin-toggle"></label>' +
             '<input type="checkbox" class="margin-toggle"/>' +
