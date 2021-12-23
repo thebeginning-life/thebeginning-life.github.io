@@ -21,21 +21,21 @@ exports.rules = [
         replacement:
         '<label class="margin-toggle"></label>' +
             '<input type="checkbox" class="margin-toggle"/>' +
-            '<span class="marginnote">Mark <a href="/mark-$1">$1</a></span>',
+            '<span class="marginnote"><a href="/mark-$1"><em>Mrk $1</em></a></span>',
     },
     {
         regex: /\(mk "([0-9]+?):([0-9]+?)"\)/g,
         replacement:
         '<label class="margin-toggle"></label>' +
             '<input type="checkbox" class="margin-toggle"/>' +
-            '<span class="marginnote">Mark <a href="/mark-$1#$2">$1:$2</a></span>',
+            '<span class="marginnote"><a href="/mark-$1#$2"><em>Mrk $1:$2</em></a></span>',
     },
     {
         regex: /\(mk "([0-9]+?):([0-9]+?)-([0-9]+?):([0-9]+?)"\)/g,
         replacement:
         '<label class="margin-toggle"></label>' +
             '<input type="checkbox" class="margin-toggle"/>' +
-            '<span class="marginnote">Mark <a href="/mark-$1#$2">$1:$2</a> - <a name="mkxr" href="/mark-$3#$4">$3:$4</a></span>',
+            '<span class="marginnote"><em><a href="/mark-$1#$2">Mrk $1:$2</a> to <a name="mkxr" href="/mark-$3#$4">Mrk $3:$4</a></em></span>',
     },
     { regex: /\(sn "(.*?)"\)/g, replacement: '[^{-} $1]' },
     // Dig deeper
