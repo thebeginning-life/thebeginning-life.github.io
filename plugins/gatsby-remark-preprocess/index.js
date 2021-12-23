@@ -3,7 +3,7 @@
 (theme "theme")
 (tn "translator's note")
 (sn "study note")
-(dig "dig-deeper note(/dig-deeper-note)")
+(key "dig-deeper note(/dig-deeper-note)")
 (vs 1)
 (mk "1:3")
 (xr "Book 3:23")
