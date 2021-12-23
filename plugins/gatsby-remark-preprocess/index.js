@@ -38,14 +38,8 @@ exports.rules = [
             '<span class="marginnote"><em><a href="/mark-$1#$2">Mrk $1:$2</a> to <a name="mkxr" href="/mark-$3#$4">Mrk $3:$4</a></em></span>',
     },
     { regex: /\(sn "(.*?)"\)/g, replacement: '[^{-} $1]' },
-    // Dig deeper
-    {
-        regex: /\(key "([a-zA-Z'\.:!\(\) ]*?)\/(.*?)\"\)/g,
-        replacement:
-        '<label class="margin-toggle"></label>' +
-            '<input type="checkbox" class="margin-toggle"/>' +
-            '<span class="marginnote"><a href="$2">🔑 $1</a></span>',
-    },
+    // key point
+    { regex: /\(key "(.*?)"\)/g, replacement: '[^{-} 🔑 $1]' },
     // Chapter and verse (range)
     {
         regex: /\(xr "(([1-3]?[ ]?[a-zA-Z ]+?) ([0-9]+?):([0-9]+?[0-9\-]*?))"\)/g,
